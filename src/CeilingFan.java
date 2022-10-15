@@ -1,8 +1,7 @@
 /**
  * CeilingFan object.
  * Has a currentSpeed, maxSpeed, direction of rotation, and number of cords.
- * Prints its attributes,
- * Validates parameters
+ * Prints fan attributes and handles fan control functionality.
  *
  * @author joseph.crane
  */
