@@ -72,7 +72,7 @@ public class CeilingFan {
     }
 
     /**
-     * Validates fanCordId and may the cord's corresponding method.
+     * Validates fanCordId and may increment the cord's corresponding method.
      * @param fanCordId unique numeric id for each cord controlling the fan
      */
     public void pullCord(int fanCordId) {
